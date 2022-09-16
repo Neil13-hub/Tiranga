@@ -1,0 +1,55 @@
+.orangeStrip{
+    width: 300px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    background-color: orangered;
+    /* border: 1px solid black; */
+
+}
+.blueChakra{
+    background-color: blue;
+    border-radius: 34px;
+    height: 30px;
+    width: 30px;
+    margin:  auto auto;
+    position: relative;
+    top: 18px;
+}
+
+.whiteStrip{
+    width: 300px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-top: 00px; */
+    /* border: 1px solid black; */
+
+}
+
+.greenStrip{
+    width: 300px;
+    height: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    /* margin-top:/-px; */
+    background-color: green;
+}
+
+.btn{
+    background-color: rgb(75, 181, 247);
+    border-radius: 16px;
+    color: white;
+    width: 80px;
+    height: 30px;
+    font-weight: bolder;
+    display: block;
+    margin: 100px auto;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: white;
+    color: rgb(75, 181, 247);
+}
